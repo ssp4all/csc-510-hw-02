@@ -1,7 +1,7 @@
 
 # CSC-510 Software Engineering-Group 12 (HW2)
 Game of Life implementation in 
-- Golang
+- Golang --> https://repl.it/repls/KosherRuddyQuotes#main.go
 - Ruby
 - Julia
 
