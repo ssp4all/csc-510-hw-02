@@ -5,12 +5,12 @@ package main
 
 import (
     "fmt"
-    "time"
     "math/rand"
+
 )
 
 func life (rows int, cols int, some float32, generations int){
-    now := make([]int, rows*cols)
+	var now [rows * cols]int
     for i := 0; i < rows * cols; i++ {
         if rand.Float32() < some{
             now[i] = 1
@@ -33,7 +33,7 @@ func helper(a []int, c int, rows int, cols int) int{
             res += a[c + cols - 1]
         }
     } 
-    if c%cols != cols-1 && cols > 1{
+    if c % cols != cols - 1 && cols > 1{
         res += a[c + 1]
         if c - cols + 1 > -1{
             res+= a[c - cols + 1]
@@ -60,10 +60,11 @@ func live(a []int, rows int, cols int, generations int){
     for i := 0; i < len(a); i++ {
         if a[i] == 1{
             fmt.Print("o ")
-        } else{
+        }
+		else{
             fmt.Print(" ")
         }
-        if (i + 1)%cols == 0{
+        if (i + 1) % cols == 0{
             fmt.Print("")
         }
     }
