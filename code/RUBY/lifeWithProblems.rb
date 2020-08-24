@@ -1,8 +1,6 @@
-
-
 def life (rows, cols, some, generations) 
     now = Array.new(rows*cols)
-    for c in 0..((rows*cols)-1)
+    for c in 0..((rows*cols))
         
         now[c] =  rand < some ? 1 : 0
     end
@@ -41,9 +39,6 @@ end
     
                 
 def live(a,rows,cols,gen)
-    if (gen < 1)
-        return
-    end
     sleep(0.5)
     print "\e[2J\e[f"
     
@@ -64,9 +59,7 @@ def live(a,rows,cols,gen)
             b[c] = ((neighbors == 2) or (neighbors == 3)) ? 1 : 0
         end
     end
-    gen -=1
     live b,rows, cols,gen
 end
 
 life(20,50,0.619,200)
-
