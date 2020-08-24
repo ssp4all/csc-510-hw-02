@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3998730.svg)](https://doi.org/10.5281/zenodo.3998730)
+
+
+
 
 # CSC-510 Software Engineering-Group 12 (HW2)
 Game of Life implementation in 
@@ -18,6 +22,3 @@ No need to install anything on your machine!
 - [Vineet Makharia](mailto:vrmakhar@ncsu.edu)
 - [Jay Jagtap](mailto:jjgtap@ncsu.edu) 
 - [Amit Ghetiya](mailto:aghetiy@ncsu.edu)
-
-
-

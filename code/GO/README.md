@@ -1,11 +1,10 @@
-Popular Debugger for Golang [Delve](https://github.com/go-delve/delve)
+## Popular Debugger for Golang 
+    [Delve](https://github.com/go-delve/delve)
 
-How to print statements
-```fmt.Println("Hello World")```
+## How to print statements
+    ```fmt.Println("Hello World")```
 
-
-About Golang
-
+## About Golang
 - Similar to C/C++
 - Very fast as compared to high level languages
 - Statically typed like C++
