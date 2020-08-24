@@ -17,7 +17,7 @@ Rules for Game of Life
 
 function nextGen(A)
   #= 
-    Function returns next Generation of Life base on above mentioned Rules
+    Function returns next Generation of Life based on above mentioned Rules
     param A: 2D matrix of previous Generation
     return next_Gen: 2D matrix derived from A(previous Generation)
   =#
@@ -68,8 +68,7 @@ function get_no_of_alive_neighbors(A, i, j)
         end
       end
       
-      
-    # Deriuving alive count from neighbors
+    # Deriving alive count from neighbors
     alive = 0
     for coord in neighbor_coord
         if (coord[1] >= 1 && coord[1] <= size(A,1) ) && (coord[2] >= 1 && coord[2] <= size(A,2))
