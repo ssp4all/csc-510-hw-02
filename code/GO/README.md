@@ -1,7 +1,7 @@
 Popular Debugger for Golang [Delve](https://github.com/go-delve/delve)
 
 How to print statements
-```fmt.Println("Hello World)```
+```fmt.Println("Hello World")```
 
 
 About Golang
