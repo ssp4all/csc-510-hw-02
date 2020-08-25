@@ -5,7 +5,7 @@ We get around 10 participants for the experiment and give them keys that they wi
 
 For example, they will use these keys on the forms pertaining to this experiment instead of their names or email IDs . This way they are anonymous. This gives them the power to freely participate in the test without any fear or feeling of being judged.
 
-## 2. Ask participants to fill the `pre-debugging survey` google form.
+## 2. Ask participants to fill the [pre-debugging survey](https://docs.google.com/forms/d/e/1FAIpQLSdFWBKKwtmoXGe220kCVoX_K859VLqQrK5XGpPASdzAoOuPww/viewform?usp=sf_link) google form.
 A `pre-debugging survey` form is a google form that aims to know more about the participants and their initial feelings about the languages used.
 
 We first ask them about their familiarity with the respective languages. The answer for this can be used for understanding the prior knowledge of the participants; which can be used for various inferences. One of them can be that if the language was already famous with the majority of people, it may become the easiest debugged language of all given programming languages in question. Hence, such a result is less indicative of the apparent ease that comes with using that particular language but more with the participants already knowing about the language.
@@ -29,7 +29,7 @@ About the task:
 5. The participant will be aware of the number of bugs and can shift between languages however they want. 
 6. They will be free to use any resource on the internet, except for the GitHub repository of the testing group.
 
-## 4. Ask participants to fill the `post-debugging survey` google form.
+## 4. Ask participants to fill the [post-debugging survey](https://docs.google.com/forms/d/e/1FAIpQLSeaNjVP7B2jWqTIE4jHouHyiM7rJ4r7Y3KSnu1K3DbI8t2Yrw/viewform?usp=sf_link) google form.
 
 This survey will aim to get to know about their performance during the debugging task and their experience.
 
@@ -41,6 +41,7 @@ We also ask them to rank the languages based on the difficulty of debugging it. 
 
 At last, we ask them if they felt the code was difficult to understand because of the way the author wrote it. This question will also have an open-ended follow-up, asking them to give some suggestions on how to improve our methods of testing and coding.
 
+>NOTE: The google forms will only allow you to access it if you're logged in with NCSU ID.
 
 
 
