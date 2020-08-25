@@ -4,6 +4,9 @@
 
 
 # CSC-510 Software Engineering-Group 12 (HW2)
+  ```This repo contains Conway's Game of Life implementation in Golang, Ruby, and Julia```
+
+
 Game of Life implementation in 
 - Golang --> https://repl.it/@VineetMakharia/CelebratedDotingConstants#main.go
 - Ruby --> https://repl.it/@AnkitArvindArvi/lifeWithProblems#main.rb
@@ -16,7 +19,7 @@ No need to install anything on your machine!
 >2. If the code seems slow, you may login. This increases the speed of execution.
 
 
-## Group:
+#### Team members:
 - [Suraj Pawar](mailto:spawar2@ncsu.edu) 
 - [Ankit Tiwari](mailto:atiwari4@ncsu.edu)
 - [Vineet Makharia](mailto:vrmakhar@ncsu.edu)
