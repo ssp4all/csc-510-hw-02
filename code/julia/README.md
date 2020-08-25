@@ -1,6 +1,7 @@
 ## Welcome to the world of Julia
 
 Your task is to debug the bugs in Julia implementation of Game of Life at [Julia playground](http://tpcg.io/ogpvl7Jo)
+There are atmost 3 bugs in the given program
 
 ### Few things to keep in mind about Julia Programming Language:
 1. How to print statements ==> println()
