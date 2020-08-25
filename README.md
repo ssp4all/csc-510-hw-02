@@ -5,7 +5,7 @@
 
 # CSC-510 Software Engineering-Group 12 (HW2)
 Game of Life implementation in 
-- Golang --> https://repl.it/@VineetMakharia/KosherRuddyQuotes#main.go
+- Golang --> https://repl.it/@VineetMakharia/CelebratedDotingConstants#main.go
 - Ruby --> https://repl.it/@AnkitArvindArvi/lifeWithProblems#main.rb
 - Julia
 

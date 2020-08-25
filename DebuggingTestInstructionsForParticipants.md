@@ -3,7 +3,7 @@
 ### First of all, we are very thankful that you have decided to give us your precious time for this experiment and for filling our `pre-debugging survey`. That was mighty :sparkles:_swell_:sparkles: of you.
 
 ## Yeah, about this task, so here are the three links:
-1. [Golang](https://repl.it/@VineetMakharia/KosherRuddyQuotes#main.go)
+1. [Golang](https://repl.it/@VineetMakharia/CelebratedDotingConstants#main.go)
 2. [Ruby](https://repl.it/@AnkitArvindArvi/lifeWithProblems#main.rb)
 3. Julia: {Link need to be inserted here}
 
