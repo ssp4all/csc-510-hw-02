@@ -7,7 +7,7 @@
 Game of Life implementation in 
 - Golang --> https://repl.it/@VineetMakharia/CelebratedDotingConstants#main.go
 - Ruby --> https://repl.it/@AnkitArvindArvi/lifeWithProblems#main.rb
-- Julia
+- Julia --> http://tpcg.io/ogpvl7Jo
 
 You can simply click on the Repls link and execute the code right there!
 No need to install anything on your machine! 
